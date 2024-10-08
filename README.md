@@ -1,5 +1,4 @@
-<h1 style="font-size: 45px;">Sistema de Suporte Alimentar</h1>
-
+   # SISTEMA DE SUPORTE ALIMENTAR
 ---
 
 # Proposta do Projeto
