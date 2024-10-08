@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<h1 style="font-size: 50px;">Sistema de Suporte Alimentar</h1>
-
-=======
-   # SISTEMA DE SUPORTE ALIMENTAR
->>>>>>> 9268400493fb619b5eed3da74c6fe814a5d998fc
----
+# SISTEMA DE SUPORTE ALIMENTAR
 
 # Proposta do Projeto
 
