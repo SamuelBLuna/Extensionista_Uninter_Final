@@ -29,7 +29,7 @@ Após a verificação, o sistema exibe os itens disponíveis e permite ao usuár
 Para clonar e executar este projeto em sua máquina local, siga os passos abaixo:
 
 1. **Clonar o repositório**:
-   ```bash
+   ```bahs
    git clone https://github.com/SamuelBLuna/Extensionista_Uninter_Final.git
    cd Extensionista_Uninter_Final
 2. **Instalar dependências:** O projeto utiliza a biblioteca Tkinter para a interface gráfica, que já vem instalada por padrão na maioria das distribuições do Python. No entanto, é recomendável instalar o ambiente virtual e ativá-lo para garantir que todas as dependências sejam instaladas corretamente.
@@ -62,6 +62,8 @@ O projeto utiliza as seguintes bibliotecas:
     * Endereço: Rua São Paulo, 123
     * Telefone: (99) 99999-9999
 
+    ![Tela de Pedido](image.png)
+
 ---
 
 2. **Fazer uma Doação:**
@@ -69,10 +71,14 @@ O projeto utiliza as seguintes bibliotecas:
     * Idade: 40 anos
     * Item: Cesta Basica
 
+    ![Tela de Doação](image-2.png)
+
 ---
 
 3. **Verificar Itens Disponíveis:**
-Ao verificar os itens disponíveis, o sistema exibirá os detalhes do pedido e do doador. Após isso, será perguntado ao usuário se deseja realizar a doação naquele momento. Se confirmada, o pedido e a doação são removidos do sistema.
+    <p>Ao verificar os itens disponíveis, o sistema exibirá os detalhes do pedido e do doador. Após isso, será perguntado ao usuário se deseja realizar a doação naquele momento. Se confirmada, o pedido e a doação são removidos do sistema.</p>
+
+![Tela de Itens Disponiceis](image-3.png)
 
 ---
 
