@@ -1,4 +1,4 @@
-<h1 style="font-size: 45px;">Sistema de Suporte Alimentar</h1>
+<h1 style="font-size: 50px;">Sistema de Suporte Alimentar</h1>
 
 ---
 
